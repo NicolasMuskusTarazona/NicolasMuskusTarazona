@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas Muskus Tarazona</h1>
-<h3 align="center">🧑‍💻 Hi,I'm Nicolas Muskus Tarazona.I'm a 16-year-old programming student passionate about techonology and software development.I'm interested in creating innovative solutions and improving my programming skills every day. Currently. I'm learning new techologies and working on small projects to grow professionally.Welcome to my GitHub!</h3>
+<h3 align="center">🧑‍💻 Hi,I'm Nicolas Muskus Tarazona.I'm a 17-year-old programming student passionate about techonology and software development.I'm interested in creating innovative solutions and improving my programming skills every day. Currently. I'm learning new techologies and working on small projects to grow professionally.Welcome to my GitHub!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolasmuskustarazona&label=Profile%20views&color=0e75b6&style=flat" alt="nicolasmuskustarazona" /> </p>
 
