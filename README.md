@@ -15,7 +15,8 @@
 
 </td>
 </tr>
-</table>
+<tr>
+<td>
 
 ## 😁 Languages and Tools
 
@@ -29,4 +30,13 @@
 <img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="GitHub" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="left" alt="Linux" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<br />
+<br/>
+
+</td>
+<td>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=nicolasmuskustarazona&theme=dark&hide_border=false)
+
+</td>
+</tr>
+</table>
